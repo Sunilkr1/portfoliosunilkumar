@@ -1,0 +1,9 @@
+/* index.css */
+body {
+  overflow-x: hidden;
+}
+
+@import "tailwindcss";
+html {
+  scroll-behavior: smooth;
+}
