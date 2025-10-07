@@ -18,9 +18,7 @@ Below is a preview of the portfolio homepage:
 
 ![Portfolio Screenshot](ADD_YOUR_SCREENSHOT_LINK_HERE)
 
-> 💡 Tip: Upload your screenshot to GitHub, Imgur, or any image hosting site and replace the above link with the direct image URL.
 
----
 
 ## 🛠️ Tech Stack
 
