@@ -72,6 +72,7 @@ npm run build
 npm run deploy
 ## 🔗 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/sunil-kumar27/)  
-- [GitHub](https://github.com/Sunilkr1)  
-- 📧 Email: Sunilkr87800@gmail.com
+- 🔗 [LinkedIn](https://www.linkedin.com/in/sunil-kumar-123456/)
+- 💻 [GitHub](https://github.com/Sunilkr1)
+- 📧 Email: sunilkumar@gmail.com
+
