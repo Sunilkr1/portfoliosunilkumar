@@ -32,5 +32,5 @@ Below is a preview of the portfolio homepage:
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/sunil-kumar-123456/)
 - 💻 [GitHub](https://github.com/Sunilkr1)
-- 📧 Email: sunilkumar@gmail.com
+- 📧 Email: sunilkr87800@gmail.com
 
