@@ -9,8 +9,14 @@ This project is built using **React** and **Vite** to showcase my skills, projec
 
 Check out my portfolio live here:  
 🔗 [https://Sunilkr1.github.io/portfoliosunilkumar/](https://Sunilkr1.github.io/portfoliosunilkumar/)
+---
 
+## 📸 Preview
 
+Here’s a sneak peek of the portfolio homepage:
+
+<img width="1900" height="917" alt="image" src="https://github.com/user-attachments/assets/21ef8594-a9b7-4f89-a1e0-a58e1796784c" />
+---
 
 ## 🛠️ Tech Stack
 
